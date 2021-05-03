@@ -1,6 +1,3 @@
-/*  file: ex3_q1_given.h
-  ****  do not change or modify this file ****
-*/
 
 #include <stdio.h>
 #include <unistd.h>
